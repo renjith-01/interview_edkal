@@ -1,7 +1,7 @@
 # interview_edkal
 Coding round of Interview with Edkal
 
-As per the recording, all files should be contained in Interview.zip
+As per the recording ( 	AmazonAddToCart_recording.7z), all files should be contained in Interview.zip
 But, as Git limits the file size to 25 MB, I had to take out and checkin selenium server stand alone as a separate file.
 Here are the steps to run.
 
